@@ -1,0 +1,20 @@
+{
+    "name": "Miles Merino",
+    "age": 18,
+    "color": 16711816,
+    "physical_characteristics": {
+        "height": 177.8,
+        "weight": 54.4,
+        "eye_color": "Pink",
+        "hair_color": "Red",
+        "race": "Caucasian"
+    },
+    "species": "Feral Elf",
+    "mental_characteristics": {
+        "alignment": "True Neutral",
+        "disorders": "cPTSD, Sociopathy"
+    },
+    "story_appearances": [],
+    "bonds": "Friends: Nero Kanzaki, Nova Quinn",
+    "description": "UNDER CONSTRUCTION"
+}
